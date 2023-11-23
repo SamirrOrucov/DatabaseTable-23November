@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  justify-content: center;
+  
+}
+table{
+  width: 905px;
+}
+td{
+  padding: 10px 25px;
+  border: 1px solid black;
+}
+input{
+  width: 905px;
+  height: 30px;
+}
